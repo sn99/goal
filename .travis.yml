@@ -8,6 +8,8 @@ rust:
 os:
 - linux
 
+install: travis_wait mvn install
+
 script:
 - cargo build -v
 - cargo run
