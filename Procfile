@@ -1,1 +1,1 @@
-web: ./target/release/goal
+worker: ./target/release/goal
