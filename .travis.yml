@@ -10,4 +10,3 @@ os:
 
 script:
 - cargo build -v
-- travis_wait cargo run
